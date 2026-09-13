@@ -32,7 +32,7 @@ npm run dev
 
 ### Demo
 
-See `npm run demo` above — a recorded GIF will be linked here.
+**Live:** https://mapcidade-georef-tool.vercel.app (deployed as a Vercel serverless function — stateless, works exactly like the CLI's underlying logic).
 
 ### What I learned / engineering decisions
 
@@ -70,7 +70,7 @@ npm run dev
 
 ### Demo
 
-Ver `npm run demo` acima — um GIF gravado será linkado aqui.
+**Ao vivo:** https://mapcidade-georef-tool.vercel.app (deploy como função serverless da Vercel — sem estado, funciona igual à lógica do CLI).
 
 ### O que aprendi / decisões de engenharia
 
